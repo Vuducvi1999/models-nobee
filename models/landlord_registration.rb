@@ -1,0 +1,3 @@
+class LandlordRegistration < ApplicationRecord
+
+end
